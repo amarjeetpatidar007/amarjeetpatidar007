@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amarjeetpatidar007
-- 👀 I’m interested in Android and IOs Development
+- 👀 I’m interested in Android and iOS Development
 - 🌱 I’m currently learning Flutter
 -
 
