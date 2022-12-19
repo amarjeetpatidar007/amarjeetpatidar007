@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter<br>👯 I’m looking to collaborate on Cool Projects<br>🌱 I’m currently learning Blockchain
+🔭 I’m currently working on Flutter<br>👯 I’m looking to collaborate on Web3 Projects<br>🌱 I’m currently exploring Blockchain Dev
 
 
 ## 🌐 Socials:
