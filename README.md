@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on Flutter<br>👯 I’m looking to collaborate on Web3 Projects<br>🌱 I’m currently exploring Blockchain Dev
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/amarjeet-patidar-688b6a141/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12356313) 
